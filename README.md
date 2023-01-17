@@ -20,9 +20,9 @@ Le projet de site Web d'apprentissage en ligne sera construit à l'aide des tech
 ## Caractéristiques
 Voici quelques caractéristiques clés du projet de don de sang :
 ### Fonctionnalités d'administration
-* Create and manage sub-admins 
-* View and manage student information 
-* Generate reports on student and teachers activity
+* Créer et gérer des sous-administrateurs
+* Afficher et gérer les informations sur les étudiants
+* Générer des rapports sur l'activité des étudiants et des enseignants
 ### Fonctionnalités de l'enseignant
 * Créer des cours contenant des leçons
 * Créer des tests.
