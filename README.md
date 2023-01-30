@@ -6,6 +6,12 @@
 ### 1-2 Website Name:
 
 e-learning
+### 1-3 Target addressed by the site:
+
+Career Advancement: The website provides students with a variety of courses that can help them advance their careers and gain new skills.
+Convenience: The website offers a flexible and convenient way to learn, allowing students to study at their own pace, from anywhere, and at any time.
+Working professionals: E-learning websites can offer a flexible and affordable way for working professionals to upskill or learn new skills in their field.
+Remote learners: E-learning websites can provide remote learners with access to education from anywhere in the world, making education more accessible to individuals who are unable to attend traditional classes.
 
 
 
@@ -47,7 +53,9 @@ e-learning
 
 
 
-Overview
+
+
+## Overview
 Ce site web est un système d'apprentissage en ligne qui permet aux enseignants de créer des cours et aux étudiants de les suivre. Les utilisateurs peuvent se connecter en utilisant leur nom d'utilisateur et mot de passe, et les étudiants peuvent suivre leur progression dans les cours et les quiz. L'administrateur a la possibilité de gérer les utilisateurs (ajout, modification, suppression) pour maintenir l'intégrité du système. Les enseignants peuvent éditer ou supprimer leurs cours pour les mettre à jour. L'administrateur peut générer des rapports sur l'utilisation du système pour en mesurer les performances.
 
 * `En tant qu'administrateur`:  -  je veux pouvoir ajouter des enseignants pour qu'ils puissent créer des cours.
