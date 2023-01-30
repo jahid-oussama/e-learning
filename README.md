@@ -33,85 +33,52 @@ The goals of an e-learning website can vary depending on the specific focus and 
 
 These goals should guide the development and design of the e-learning website, and should inform key decisions about the website's features, content, and overall strategy
 
+### 2- Functional Needs :
 
+The functional needs of an e-learning website can include:
 
+Course catalog: A searchable and easily navigable catalog of courses and learning materials, organized by subject and level.
 
+Course content: A range of multimedia elements, such as video lectures, interactive quizzes, and audio recordings, to support the learning process.
 
+Assessments: The ability for users to test their knowledge and track their progress through assessments and quizzes.
 
+User accounts: Secure user accounts, where users can save their progress and access their course materials at any time.
 
+Payment processing: The ability for users to purchase courses or subscriptions, and for the website to process payments securely.
 
+Course management: The ability for teachers and administrators to manage courses, including the creation, modification, and deletion of course content.
 
+Accessibility: The website should be accessible to users with disabilities, and comply with web accessibility standards.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Overview
-Ce site web est un système d'apprentissage en ligne qui permet aux enseignants de créer des cours et aux étudiants de les suivre. Les utilisateurs peuvent se connecter en utilisant leur nom d'utilisateur et mot de passe, et les étudiants peuvent suivre leur progression dans les cours et les quiz. L'administrateur a la possibilité de gérer les utilisateurs (ajout, modification, suppression) pour maintenir l'intégrité du système. Les enseignants peuvent éditer ou supprimer leurs cours pour les mettre à jour. L'administrateur peut générer des rapports sur l'utilisation du système pour en mesurer les performances.
-
-* `En tant qu'administrateur`:  -  je veux pouvoir ajouter des enseignants pour qu'ils puissent créer des cours.
-                                -  je veux pouvoir gérer les comptes des utilisateurs (étudiants et enseignants).
-                                
-* `En tant qu'enseignant`:      -  je veux pouvoir créer des cours avec des leçons et des quizz pour que les étudiants puissent les suivre.
-                                -  je veux pouvoir éditer ou supprimer mes cours pour les mettre à jour.
-                                
-* `En tant qu'étudiant`  :      -  je veux pouvoir me connecter à mon compte pour accéder aux cours et aux quizz.   
-                                -  je veux pouvoir visualiser la liste des cours disponibles pour que je puisse choisir celui que je souhaite suivre.
+Mobile compatibility: The website should be optimized for use on a range of devices, including desktop computers, laptops, tablets, and smartphones.
                                 
 ## Technical specifications
-Le projet de site Web d'apprentissage en ligne sera construit à l'aide des technologies suivantes :
-* HTML,(Tailwind / Bootstrap) et JavaScript pour le front-end
-* Laravel pour le back-end
-* MySQL pour la base de données
+The e-learning website project will be built using the following technologies:
+* HTML,(Tailwind / Bootstrap) and JavaScript for the front-end
+* Laravel for the back-end
+* MySQL for the database
 
-## Caractéristiques
-Voici quelques caractéristiques clés du projet de don de sang :
-### Fonctionnalités d'administration
-* Créer et gérer des sous-administrateurs
-* Afficher et gérer les informations sur les étudiants
-* Générer des rapports sur l'activité des étudiants et des enseignants
-### Fonctionnalités de l'enseignant
-* Créer des cours contenant des leçons
-* Créer des tests.
-* Modifier, supprimer ou mettre à jour mes cours.
-### Caractéristiques des étudiants
-* Créez et connectez-vous à un compte pour accéder aux cours.
-* possibilité d'accéder aux cours.
-* possibilité de consulter la liste des cours disponibles
-* possibilité de choisir un cours
+## Features
+Here are some key features of the e-learning Website project:
+### Admin features
+* Create and manage sub-admins
+* View and manage student information
+* Generate student and teacher activity reports
+### Sub-admin features
+* Create courses containing lessons
+* Create tests.
+* Edit, delete or update my courses.
+### Student features
+* Create and login to an account to access the courses.
+* possibility of accessing courses.
+* possibility to consult the list of available courses
+* possibility to choose a course
 
 # Requirements
 
-Pour utiliser le site Web d'apprentissage en ligne, les utilisateurs auront besoin de :
-* A modern web browser (such as Google Chrome or Mozilla Firefox ...)
-* An internet connection
+To use the e-learning, users will need:
+
+A modern web browser (such as Google Chrome or Mozilla Firefox ...)
+An internet connection
 
