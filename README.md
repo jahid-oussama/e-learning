@@ -1,5 +1,53 @@
-# e-learning Website
-## Overview
+# e-learning Website " Cahier des charges "
+## 1- Project presentation:
+### 1-1 Company Presentation:
+ The company behind the e-learning website may position itself as a provider of high-quality, accessible education for a wide range of learners. An e-learning website is a platform for delivering educational content and courses online. The main objective of such a website is to make learning accessible to anyone, anywhere, at any time, using a computer or mobile device with an internet connection.
+ 
+### 1-2 Website Name:
+
+e-learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
 Ce site web est un système d'apprentissage en ligne qui permet aux enseignants de créer des cours et aux étudiants de les suivre. Les utilisateurs peuvent se connecter en utilisant leur nom d'utilisateur et mot de passe, et les étudiants peuvent suivre leur progression dans les cours et les quiz. L'administrateur a la possibilité de gérer les utilisateurs (ajout, modification, suppression) pour maintenir l'intégrité du système. Les enseignants peuvent éditer ou supprimer leurs cours pour les mettre à jour. L'administrateur peut générer des rapports sur l'utilisation du système pour en mesurer les performances.
 
 * `En tant qu'administrateur`:  -  je veux pouvoir ajouter des enseignants pour qu'ils puissent créer des cours.
