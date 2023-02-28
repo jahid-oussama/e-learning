@@ -15,7 +15,7 @@ e-learning
 
 ### 1-4 Framework:
 
- End of year red thread project.
+ laravel
  
  ### 1-5 Description:
 
